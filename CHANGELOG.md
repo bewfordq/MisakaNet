@@ -14,7 +14,6 @@ All notable changes to the Misaka Network project are documented here.
 
 * **cindy-plugin:** 1.5.20 —— 上报确认改成「一键点卡」：点击 → 一次性票据 → 一轮 agent ([#5782](https://github.com/Ikalus1988/MisakaNet/issues/5782)) ([39c441e](https://github.com/Ikalus1988/MisakaNet/commit/39c441ec901ca0f126a0134103f6b2eed5efdef5))
 * **lessons:** intake batch 2026-11-25 ([#5772](https://github.com/Ikalus1988/MisakaNet/issues/5772)) ([5877f97](https://github.com/Ikalus1988/MisakaNet/commit/5877f97a9d99966128c247e46ec8d8fe9a26ee18))
-* **lessons:** intake batch 2026-11-25 ([#5788](https://github.com/Ikalus1988/MisakaNet/issues/5788)) ([57d7278](https://github.com/Ikalus1988/MisakaNet/commit/57d72786bdd0877240cfb6e37b0023978e1b7bb4))
 
 
 ### Bug Fixes
